@@ -41,10 +41,9 @@ This empowers job seekers to **optimize resumes** and apply more strategically.
    ```bash
    git clone https://github.com/your-username/HireME.git
    cd HireME
-````
+   ```
 
 2. **Create and activate a virtual environment**
-
    ```bash
    python -m venv venv
    source venv/bin/activate   # Linux/Mac
@@ -52,19 +51,16 @@ This empowers job seekers to **optimize resumes** and apply more strategically.
    ```
 
 3. **Install backend dependencies**
-
    ```bash
    pip install -r requirements.txt
    ```
 
 4. **Run backend (Flask API)**
-
    ```bash
    python server.py
    ```
 
 5. **Run frontend (React)**
-
    ```bash
    cd frontend
    npm install
@@ -74,7 +70,6 @@ This empowers job seekers to **optimize resumes** and apply more strategically.
 ---
 
 ## 📂 Project Structure
-
 ```
 Hire_ME-main/
 ├── HireMe-backend/
@@ -95,42 +90,27 @@ Hire_ME-main/
 ## 📸 Screenshots
 
 ### 🏠 Home Page
-
 ![Home Page](screenshots/home.png)
 
-### 📊 Job Details & ATS Match Result
-
-![Job Details](screenshots/job-details.png)
-
 ### 📋 Job Listings
-
 ![Job Listings](screenshots/job-listings.png)
+
+### 📊 Job Details & ATS Match Result
+![Job Details](screenshots/job-details.png)
 
 ---
 
 ## 🎨 Figma UI Design
-
-You can view the complete UI design here:
+You can view the complete UI design here:  
 [**HireME Figma Design**](https://www.figma.com/design/ifNGx8qD1mkaJV6cNilewN/Ats?node-id=8442-89&t=p3M5a0cYrveY0gA8-1)
 
 ---
 
 ## 📜 License
-
 This project is licensed under the MIT License.
 
 ---
 
 ## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome!
+Contributions, issues, and feature requests are welcome!  
 Feel free to fork the repo and submit pull requests.
-
-```
-
----
-
-Now you can just **copy this into `README.md`** in your repo, put your screenshots into a `screenshots/` folder, and it’s ready.  
-
-Do you want me to also **add professional badges (Python, Flask, React, License)** at the top so it looks more premium on GitHub?
-```
