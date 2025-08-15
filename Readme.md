@@ -90,27 +90,16 @@ Hire_ME-main/
 ## 📸 Screenshots
 
 ### 🏠 Home Page
-![Home Page](screenshots/home.png)
+![Home Page](Screenshots/home.png)
 
 ### 📋 Job Listings
-![Job Listings](screenshots/job-listings.png)
+![Job Listings](Screenshots/job-listings.png)
 
 ### 📊 Job Details & ATS Match Result
-![Job Details](screenshots/job-details.png)
+![Job Details](Screenshots/job-details.png)
 
 ---
 
 ## 🎨 Figma UI Design
 You can view the complete UI design here:  
 [**HireME Figma Design**](https://www.figma.com/design/ifNGx8qD1mkaJV6cNilewN/Ats?node-id=8442-89&t=p3M5a0cYrveY0gA8-1)
-
----
-
-## 📜 License
-This project is licensed under the MIT License.
-
----
-
-## 🤝 Contributing
-Contributions, issues, and feature requests are welcome!  
-Feel free to fork the repo and submit pull requests.
